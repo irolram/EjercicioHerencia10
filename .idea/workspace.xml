@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dfc3074-7e82-42b4-b670-bf8e3fb690b0" name="Changes" comment="" />
+    <list default="true" id="9dfc3074-7e82-42b4-b670-bf8e3fb690b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Empleado.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gerente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persona.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "irolram"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;irolram&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/irolram/EjercicioHerencia10.git",
-    "accountId": "dfaef8a8-5323-4fd5-b777-88690409e30a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/irolram/EjercicioHerencia10.git&quot;,
+    &quot;accountId&quot;: &quot;dfaef8a8-5323-4fd5-b777-88690409e30a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2t6n7CtfXINMZfT9CN2A7WQ68z3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,8 +49,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/ztech/Desktop/RepoGit/EjercicioHerencia10/src/Main.kt",
     "vue.rearranger.settings.migration": "true"
@@ -56,7 +78,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739681223669</updated>
-      <workItem from="1739681225110" duration="16000" />
+      <workItem from="1739681225110" duration="600000" />
+      <workItem from="1739731788215" duration="21000" />
+      <workItem from="1739826229447" duration="4569000" />
+      <workItem from="1739872932380" duration="927000" />
     </task>
     <servers />
   </component>
@@ -66,11 +91,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Main.kt</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
